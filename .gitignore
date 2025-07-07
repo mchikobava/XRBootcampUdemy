@@ -1,0 +1,14 @@
+/*.sln
+/Logs/*.log
+/Library
+/Logs
+/obj
+/Temp
+/Assembly-CSharp-Editor.csproj
+/.vsconfig
+/Assembly-CSharp.csproj
+/Builds
+/.utmp
+/.vscode
+/.vs
+/app.apk
